@@ -1,4 +1,4 @@
-from frontend.my_model import model_gui
+from first_model.frontend.my_model import model_gui
 
 
 def main():
